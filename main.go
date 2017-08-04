@@ -1,4 +1,4 @@
-package ci_info
+package main
 
 import (
 	"fmt"
